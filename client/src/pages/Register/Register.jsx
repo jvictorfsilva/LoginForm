@@ -83,8 +83,8 @@ function Register() {
                   </button>
                   <div className="register">
                     Já possui uma conta?ﾠ
-                    <a className="register-link" href="/signup">
-                      Cadastre-se
+                    <a className="register-link" href="/login">
+                      Conecte-se
                     </a>
                   </div>
                 </div>
